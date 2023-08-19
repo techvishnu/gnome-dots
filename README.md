@@ -28,9 +28,7 @@
 <details>
 <summary><b>Load More</b> <span style="font-size:14px;">(Click to expend) </span> </summary>
 
-![](./img/img3.png)
-
-![](./img/img4.png)
+- **Other Rices** • [Reddit](https://www.reddit.com/user/OnlyMemer420)🌿 I have pinned my Beginner rices on my reddit profile !
 
 </details>
 
