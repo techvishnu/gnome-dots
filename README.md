@@ -3,17 +3,15 @@
 </h2>
 
 - **Window Manager** • [GNOME](https://www.gnome.org/)🎨 Tiles Manage!
-- **Terminal** • [Kitty](https://github.com/kovidgoyal/kitty) 💻 A powerful term with gpu support!
-- **Shell** • [Zsh](https://www.zsh.org/) with Theme [Starship](https://github.com/starship/starship)🐚 Cross Shell Platform!
-- **Application Launcher** • [Rofi](https://github.com/davatorium/rofi)🚀 Realmente rápido y customizable!
-- **File Manager** • [Ranger](https://github.com/ranger/ranger)📁 A VIM-inspired filemanager for the console!
-- **File Manager** • [lf](https://github.com/gokcehan/lf)📁 Terminal file manager 
-- **Code Editor** • [Neovim](https://github.com/neovim/neovim)🗞️ A uUtimate editorr!
-- **Music Player** • [Amberol](https://gitlab.gnome.org/World/amberol)🎹 A Very Cool Music Player
-- **Audio Visualizer** • [Cava](https://github.com/karlstav/cava)🎼 Cross-platform Audio Visualizer!
-- **Audio Visualizer** • [Recidia](https://github.com/GhostNaN/recidia-audio-visualizer)🎼 real time audio visualizer!
-- **Theme** • [Catppuccin](https://github.com/catppuccin/catppuccin)🌿 My favourite Theme!
-- **Theme** • 🌿 Modded Catppuccin Theme included in the Dotfiles!
+* **Terminal** • [Kitty](https://github.com/kovidgoyal/kitty) 💻 A powerful term with gpu support!
+* **Shell** • [Zsh](https://www.zsh.org/) with Theme [Z4h](https://github.com/romkatv/zsh4humans)🐚 Cross Shell Platform!
+* **Application Launcher** • [Rofi](https://github.com/davatorium/rofi)🚀 Realmente rápido y customizable!
+* **File Manager** • [lf](https://github.com/gokcehan/lf)📁 Terminal file manager
+* **Music Player** • [Amberol](https://gitlab.gnome.org/World/amberol)🎹 A Very Cool Music Player
+* **Audio Visualizer** • [Cava](https://github.com/karlstav/cava)🎼 Cross-platform Audio Visualizer!
+* **Audio Visualizer** • [Recidia](https://github.com/GhostNaN/recidia-audio-visualizer)🎼 real time audio visualizer!
+* **Theme** • [Catppuccin](https://github.com/catppuccin/catppuccin)🌿 My favourite Theme!
+* **Theme** • 🌿 Modded Catppuccin Theme included in the Dotfiles!
 
 ### 🐜 ScreenShot
 
