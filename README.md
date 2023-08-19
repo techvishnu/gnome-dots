@@ -5,13 +5,6 @@
 
 <h1 align="center">
   GNOME DOTFILES<br>
-  <a href="">
-      <img src="https://img.shields.io/github/issues/techvishnu/gnome-dotfiles?color=5176c1&style=for-the-badge">
-   </a>
-   <a href="https://github.com/InioX/dotfiles/stargazers">
-      <img src="https://img.shields.io/github/stars/techvishnu/gnome-dotfiles?color=7eb8e3&style=for-the-badge">
-   </a>
-</h1>
 
 * **Window Manager** • [GNOME](https://www.gnome.org/)🎨 Tiles Manage!
 * **Terminal** • [Kitty](https://github.com/kovidgoyal/kitty) 💻 A powerful term with gpu support!
