@@ -17,10 +17,6 @@
 
 <p align="center"><b>Show My Favorite Desktop</b></p>
 
-<p align="center">
-<img src="./img/img1.png" style="margin-top:30px">
-</p>
-
 ### 🐜 ScreenShot
 
 ![](./GnomeRice.png)
