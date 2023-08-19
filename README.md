@@ -1,5 +1,5 @@
 <h2>
- <b style="font-size:24px;line-height:24px;vertical-align:middle;"><i><img src="./img/Arch-dotfiles.png" width="36px" style="vertical-align:middle;"> Arch dotfiles</i></b>
+ <b style="font-size:24px;line-height:24px;vertical-align:middle;"><i><img src="https://iconscout.com/icon/archlinux-3521282" width="36px" style="vertical-align:middle;"> Arch dotfiles</i></b>
 </h2>
 
 - **Window Manager** • [GNOME](https://www.gnome.org/)🎨 Tiles Manage!
