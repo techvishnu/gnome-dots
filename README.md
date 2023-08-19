@@ -2,7 +2,7 @@
  <b style="font-size:24px;line-height:24px;vertical-align:middle;"><i>Arch dotfiles</i></b>
 </h2>
 
-- **Window Manager** • [GNOME](https://www.gnome.org/)🎨 Tiles Manage!
+* **Window Manager** • [GNOME](https://www.gnome.org/)🎨 Tiles Manage!
 * **Terminal** • [Kitty](https://github.com/kovidgoyal/kitty) 💻 A powerful term with gpu support!
 * **Shell** • [Zsh](https://www.zsh.org/) with Theme [Z4h](https://github.com/romkatv/zsh4humans)🐚 Cross Shell Platform!
 * **Application Launcher** • [Rofi](https://github.com/davatorium/rofi)🚀 Realmente rápido y customizable!
