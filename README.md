@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://foundation.gnome.org/wp-content/uploads/sites/12/2021/03/gnome-logos-1.png" alt="arch logo" width=125>
+  <img src="https://img.freepik.com/premium-vector/gnome-logo-design-vector-illustration_685330-1954.jpg?w=2000" alt="arch logo" width=125>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/EndeavourOS_Logo.svg/111px-EndeavourOS_Logo.svg.png?20210415145357" alt="nix logo" width=150>
 </div>
 
