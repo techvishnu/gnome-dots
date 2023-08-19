@@ -15,8 +15,6 @@
 - **Theme** • [Catppuccin](https://github.com/catppuccin/catppuccin)🌿 My favourite Theme!
 - **Theme** • 🌿 Modded Catppuccin Theme included in the Dotfiles!
 
-<p align="center"><b>Show My Favorite Desktop</b></p>
-
 ### 🐜 ScreenShot
 
 ![](./GnomeRice.png)
