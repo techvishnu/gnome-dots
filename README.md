@@ -1,5 +1,5 @@
 <h2>
- <b style="font-size:24px;line-height:24px;vertical-align:middle;"><i>Arch dotfiles</i></b>
+ <b style="font-size:24px;line-height:24px;vertical-align:middle;"><i>GNOME dotfiles</i></b>
 </h2>
 
 * **Window Manager** • [GNOME](https://www.gnome.org/)🎨 Tiles Manage!
