@@ -6,10 +6,10 @@
 <h1 align="center">
   GNOME DOTFILES<br>
   <a href="">
-      <img src="https://img.shields.io/github/issues/InioX/dotfiles?color=5176c1&style=for-the-badge">
+      <img src="https://img.shields.io/github/issues/techvishnu/gnome-dotfiles?color=5176c1&style=for-the-badge">
    </a>
-   <a href="https://github.com/InioX/dotfiles/stargazers">
-      <img src="https://img.shields.io/github/stars/InioX/dotfiles?color=7eb8e3&style=for-the-badge">
+   <a href="https://github.com/techvishnu/dotfiles/stargazers">
+      <img src="https://img.shields.io/github/stars/techvishnu/gnome-dotfiles?color=7eb8e3&style=for-the-badge">
    </a>
 </h1>
 
